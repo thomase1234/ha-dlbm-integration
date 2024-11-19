@@ -4,8 +4,8 @@
     "codeowners": ["@thomase1234"],
     "dependencies": [],
     "documentation": "https://github.com/thomase1234/ha-dlbm-integration/",
+    "integration_type": "device",
     "iot_class": "calculated",
     "requirements": [],
-    "version": "v0.1.1-alpha",
-    "integration_type": "device"
+    "version": "v0.1.1-alpha"
   }
