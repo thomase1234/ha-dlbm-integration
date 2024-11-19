@@ -1,0 +1,10 @@
+{
+    "domain": "dynamic_load_balancing_module",
+    "name": "Fake Dynamic Loadbalancing Module",
+    "codeowners": ["@thomase1234"],
+    "dependencies": [],
+    "documentation": "https://github.com/thomase1234/ha-dlbm-integration/tree/main/custom_components/dynamic_load_balancing_module/",
+    "iot_class": "local_polling",
+    "requirements": [],
+    "version": "0.1.0"
+  }
