@@ -22,7 +22,7 @@ DOMAIN = "dynamic_load_balancing_module"
 def setup(hass: HomeAssistant, config: ConfigType) -> bool:
     """Set up a skeleton component."""
     # States are in the format DOMAIN.OBJECT_ID.
-    hass.states.set('dynamic_load_balancing_module.Hello_World', 'Works!')
+    hass.states.set('dynamic_load_balancing_module.Hello_World', 'Works even better!')
 
     # Return boolean to indicate that initialization was successfully.
     return True
