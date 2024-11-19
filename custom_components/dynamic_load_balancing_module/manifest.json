@@ -6,6 +6,6 @@
     "documentation": "https://github.com/thomase1234/ha-dlbm-integration/",
     "iot_class": "calculated",
     "requirements": [],
-//    "version": "v0.1.1-alpha",
+    "version": "v0.1.1-alpha",
     "integration_type": "device"
   }
