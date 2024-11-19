@@ -1,4 +1,4 @@
 {
   "name": "Fake Dynamic Loadbalancing Module",
-  "hide_default_branch": "no"
+  "hide_default_branch": false
 }
