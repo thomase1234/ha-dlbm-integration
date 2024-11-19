@@ -6,6 +6,6 @@
     "documentation": "https://github.com/thomase1234/ha-dlbm-integration/tree/main/custom_components/dynamic_load_balancing_module/",
     "iot_class": "calculated",
     "requirements": [],
-    "version": "v0.1.0-alpha",
+    "version": "v0.1.1-alpha",
     "integration_type": "device"
   }
